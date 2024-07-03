@@ -1,4 +1,5 @@
 # Week 3: Grouping Your Expenses for Smarter Spending
+   <img src="assignment.PNG" alt="group by sql" style="width: 90%; margin: 10px;">
 
 Great job last week! Now that you can see your individual expenses, let's get a bigger picture. This week, we'll use grouping and summarizing techniques to understand your spending habits better.
 
